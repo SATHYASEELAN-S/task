@@ -1,0 +1,40 @@
+
+    body {
+      background-color: #cdd3dd;
+      
+    }
+    .form-container {
+      background-color: #fff;
+      border-radius: 20px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      padding: 30px;
+      width: 90%;
+    }
+
+    .form-title {
+      color: #495057;
+    }
+
+    .form-floating {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    .form-control {
+      border-radius: 8px;
+    }
+
+    .btn-register{
+      width: 100%;
+      border-radius: 8px;
+      background-color: #2881a7;
+      color: #fff;
+    }
+
+    .btn-register:hover {
+      background-color: rgb(100, 10, 200);
+    }
+
+    .img-fluid {
+      border-radius: 10px;
+    }
